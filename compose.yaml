@@ -1,0 +1,6 @@
+include:
+    - gateway-service/compose.yaml
+    - user-service/compose.yaml
+    #- {any-service}/compose.yaml
+
+# add other services above
