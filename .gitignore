@@ -1,3 +1,5 @@
 .idea/
+frontend/
 gateway-service/
+order-service/
 user-service/
